@@ -4,4 +4,7 @@
 - 
 ### Minhas redes sociais:
 
-<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">
+[<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/guilherme-ferreira-a2735b18b/
