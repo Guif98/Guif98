@@ -5,4 +5,4 @@
 
 ### Meu Linkedin:
 
-<img alt="linkedin" width="22px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">
+<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">
