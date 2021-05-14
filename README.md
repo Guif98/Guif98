@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @Guif98, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
+- 👋 Olá, meu nome é Guilherme Ferreira, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
 - 👀 Sempre interessado em aprender novas tecnologias.
 - 🌱 Estou atualmente aprendendo Flutter e Laravel.
 - 📫 How to reach me ...
