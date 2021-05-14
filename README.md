@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Guif98
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Flutter and Laravel
+- 👋 Olá, Sou @Guif98, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
+- 👀 Sempre interessado em aprender novas tecnologias.
+- 🌱 Estou atualmente aprendendo Flutter e Laravel.
 - 📫 How to reach me ...
 
 <!---
