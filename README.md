@@ -2,7 +2,7 @@
 - 👀 Sempre interessado em aprender novas tecnologias.
 - 🌱 Estou atualmente aprendendo Flutter e Laravel.
 
-### Minhas redes sociais:
+### Meu contato:
 
 [<img alt="linkedin" width="80px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
 
