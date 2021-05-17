@@ -16,6 +16,8 @@
 <img alt="flutter" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/640px-Google-flutter-logo.png">
 <img alt="database" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Linecons_database.svg/640px-Linecons_database.svg.png">
 <img alt="vue" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png">
-
+<img alt="vscode" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+<img alt="git" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png">
+<img alt="github" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png">
 
 [linkedin]: https://www.linkedin.com/in/guilherme-ferreira-a2735b18b/
