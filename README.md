@@ -1,6 +1,6 @@
-👋 Olá, meu nome é Guilherme Ferreira, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
-👀 Sempre interessado em aprender novas tecnologias.
-🌱 Estou atualmente aprendendo Flutter e Laravel.
+- 👋 Olá, meu nome é Guilherme Ferreira, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
+- 👀 Sempre interessado em aprender novas tecnologias.
+- 🌱 Estou atualmente aprendendo Flutter e Laravel.
 
 ### Minhas redes sociais:
 
