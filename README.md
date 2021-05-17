@@ -8,8 +8,8 @@
 
 ### Linguagens e ferramentas que utilizo:
 
-[<img alt="linkedin" align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">]
-[<img alt="linkedin" align="left" width="80px" src="https://ayltoninacio.com.br/img/p/53w1500.jpg">]
+[<img alt="linkedin" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">]
+[<img alt="linkedin" align="left" width="50px" height="50px" src="https://ayltoninacio.com.br/img/p/53w1500.jpg">]
 
 
 
