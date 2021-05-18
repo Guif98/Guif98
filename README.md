@@ -4,7 +4,7 @@
 
 ### Meu contato:
 
-[<img alt="linkedin" width="80px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
+[<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
 
 ### Linguagens e ferramentas que utilizo:
 
