@@ -19,6 +19,6 @@
 <img alt="vscode" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
 <img alt="git" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png">
 <img alt="github" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png">
-<img alt="github" align="left" width="70px" height="70px" src="https://user-images.githubusercontent.com/53585939/124341054-1e984000-db90-11eb-8055-af8e2080ae3d.png">
+<img alt="github" align="left" width="" height="" src="https://user-images.githubusercontent.com/53585939/124341054-1e984000-db90-11eb-8055-af8e2080ae3d.png">
 
 [linkedin]: https://www.linkedin.com/in/guilherme-ferreira-a2735b18b/
