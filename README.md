@@ -1,12 +1,12 @@
-- 👋 Olá, meu nome é Guilherme Ferreira, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas.
-- 👀 Sempre interessado em aprender novas tecnologias.
-- 🌱 Estou atualmente aprendendo Flutter e Laravel.
+- 👋 Hi, my name is Guilherme Ferreira, I'm a software developer and a Software Development and Analysis student.
+- 👀 I'm always interested in learning new technologies.
+- 🌱 I'm currently learning Flutter and Laravel and at the same time I'm sharpening my Java programming skills.
 
-### Meu contato:
+### My Contact:
 
 [<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
 
-### Linguagens e ferramentas que utilizo:
+### Programming Languages and Tools that I use:
 
 <img alt="html" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
 <img alt="css" align="left" width="35px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">
