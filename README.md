@@ -1,10 +1,10 @@
 - 👋 Hi, my name is Guilherme Ferreira, I'm a software developer and a Software Development and Analysis student.
 - 👀 I'm always interested in learning new technologies.
-- 🌱 I'm currently learning Flutter and Laravel and in the meantime I'm sharpening my Java programming skills.
+- 🌱 I'm currently learning Flutter and ReactJS and in the meantime I'm sharpening my Java programming skills.
 
 ### My Contact:
 
-[<img alt="linkedin" width="100px" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png">][linkedin]
+[<img alt="linkedin" width="100px" src="https://www.svgrepo.com/show/271162/linkedin.svg">][linkedin]
 
 ### Programming Languages and Tools that I use:
 
