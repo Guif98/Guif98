@@ -6,6 +6,15 @@
 
 [<img alt="linkedin" width="100px" src="https://www.svgrepo.com/show/271162/linkedin.svg">][linkedin]
 
+<div>
+  <a href="https://github.com/Guif98">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guif98&theme=tokyonight&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guif98&theme=tokyonight&layout=compact&hide=html,css"/>
+  </a>
+ </div>
+
+
+
 ### Programming Languages and Tools that I use:
 
 <img alt="html" align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
